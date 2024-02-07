@@ -1,7 +1,8 @@
 # 2021-SMU Data Campus Project
 
 ---
-# <center>장벽 없는 휠체어<br><br> *장애인 이동권 개선을 위한 저상버스 경로 제안 및 기대효과*</center> 
+# <center>장벽 없는 휠체어<br><br> *장애인 이동권 개선을 위한 저상버스 경로 제안 및 기대효과*</center> [Uploading ppt_장벽없는 휠체어_장애인 이동권 개선을 위한 저상버스 경로 제안 및 기대효과.PDF…]()
+
 ---
 ### Project nickname : 일석칠조(7조)
 ### Project execution period : 2022. 6. 27 ~ 8. 31
